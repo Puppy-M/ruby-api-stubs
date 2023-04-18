@@ -70,7 +70,7 @@ class UI::Toolbar
   # @return [UI::Toolbar] the toolbar where the line separator was just added
   #
   # @version SketchUp 6.0
-  def add_separator(arg)
+  def add_separator
   end
 
   # The {#count} method is inherited from the +Enumerable+ mix-in module.
